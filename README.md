@@ -1,2 +1,2 @@
-# ECHOES-Metadata-DB
+# ECHOES-Data-DB
 Internal data repository
